@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/olatech/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/olatech/static/js/main.97115125.chunk.js",
-    "main.js.map": "/olatech/static/js/main.97115125.chunk.js.map",
+    "main.js": "/olatech/static/js/main.1ffc9a8a.chunk.js",
+    "main.js.map": "/olatech/static/js/main.1ffc9a8a.chunk.js.map",
     "runtime-main.js": "/olatech/static/js/runtime-main.8b7d7389.js",
     "runtime-main.js.map": "/olatech/static/js/runtime-main.8b7d7389.js.map",
     "static/js/2.48a54330.chunk.js": "/olatech/static/js/2.48a54330.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8b7d7389.js",
     "static/js/2.48a54330.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.97115125.chunk.js"
+    "static/js/main.1ffc9a8a.chunk.js"
   ]
 }
