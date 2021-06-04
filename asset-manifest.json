@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/olatech/static/css/main.9475b7c8.chunk.css",
-    "main.js": "/olatech/static/js/main.5dab8938.chunk.js",
-    "main.js.map": "/olatech/static/js/main.5dab8938.chunk.js.map",
+    "main.css": "/olatech/static/css/main.a6f7653d.chunk.css",
+    "main.js": "/olatech/static/js/main.f7655935.chunk.js",
+    "main.js.map": "/olatech/static/js/main.f7655935.chunk.js.map",
     "runtime-main.js": "/olatech/static/js/runtime-main.c26e802f.js",
     "runtime-main.js.map": "/olatech/static/js/runtime-main.c26e802f.js.map",
-    "static/js/2.192f9a35.chunk.js": "/olatech/static/js/2.192f9a35.chunk.js",
-    "static/js/2.192f9a35.chunk.js.map": "/olatech/static/js/2.192f9a35.chunk.js.map",
+    "static/js/2.61d86810.chunk.js": "/olatech/static/js/2.61d86810.chunk.js",
+    "static/js/2.61d86810.chunk.js.map": "/olatech/static/js/2.61d86810.chunk.js.map",
     "static/js/3.c06e9de5.chunk.js": "/olatech/static/js/3.c06e9de5.chunk.js",
     "static/js/3.c06e9de5.chunk.js.map": "/olatech/static/js/3.c06e9de5.chunk.js.map",
     "index.html": "/olatech/index.html",
-    "static/css/main.9475b7c8.chunk.css.map": "/olatech/static/css/main.9475b7c8.chunk.css.map",
-    "static/js/2.192f9a35.chunk.js.LICENSE.txt": "/olatech/static/js/2.192f9a35.chunk.js.LICENSE.txt"
+    "static/css/main.a6f7653d.chunk.css.map": "/olatech/static/css/main.a6f7653d.chunk.css.map",
+    "static/js/2.61d86810.chunk.js.LICENSE.txt": "/olatech/static/js/2.61d86810.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c26e802f.js",
-    "static/js/2.192f9a35.chunk.js",
-    "static/css/main.9475b7c8.chunk.css",
-    "static/js/main.5dab8938.chunk.js"
+    "static/js/2.61d86810.chunk.js",
+    "static/css/main.a6f7653d.chunk.css",
+    "static/js/main.f7655935.chunk.js"
   ]
 }
